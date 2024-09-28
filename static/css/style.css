@@ -43,16 +43,16 @@
     }
 
     a {
-      color: #613DC1;
+      color: #4b6688;
     }
 
     header {
-      background: #613DC1;
+      background: #3b4252;
     }
 
     .article-meta, .menu a {
-      background: #E8DBC5;
-      color: #000;
+      background: #FFF;
+      color: #434c5e;
     }
 
     table {
@@ -68,7 +68,7 @@
 
 
 body {
-  max-width: 800px;
+  max-width: 1000px;
   margin: auto;
   padding: .2em;
   line-height: 1.5em;
@@ -130,6 +130,7 @@ header {
     width: 100%;
     height: 1.75rem;
     font-size: 1rem;
+    border-bottom: 1px solid #000;
 }
 
 header ul,
@@ -178,7 +179,7 @@ img, iframe, video {
 
 main {
   hyphens: auto;
-  max-width: 650px;
+  max-width: 840px;
   margin-left: auto;
   margin-right: auto;
   line-height: 1.7em;
